@@ -1,6 +1,6 @@
 # This program demonstrates the Car class.
 
-import vehicles
+import e_vehicles as vehicles
 
 def main():
     # Create an object from the Car class.
