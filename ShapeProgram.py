@@ -8,4 +8,4 @@ def main():
     for item in shapes:
         print(f'The shape \"{item.get_name()}\" has an area of {item.calculate_area():.2f}')
 
-main()
+main() 
